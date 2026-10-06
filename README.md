@@ -1,1 +1,1 @@
-# sito-git-ec2test
+# sito-git-ec2
